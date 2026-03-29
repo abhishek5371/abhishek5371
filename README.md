@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek 👋:
+# Hi, I'm Abhishek👋
 🎓 Electronics & Communication Engineer | CS Minor ⚡<br>🎸 Translating my rhythm into code and chords 🎤<br>🛠️ Building simple things that actually work 💻<br>✉️ Let’s connect and talk tech or tunes 🤝
 
 
